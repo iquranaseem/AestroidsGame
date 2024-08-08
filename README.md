@@ -47,5 +47,4 @@ The player ship can perform 5 actions:
 ## My contributions to the project: 
 - Create main control of the game: Start a new game, Stop the game, Restart the game, Upgrade game level
 - Create an IO stream to save and read high-score data
-- Implement bulleting firing behavior of the player's ship and aliens
-- Implement movement and collision of bullets with score increment, implement collision of alien
+- Create the main menu, high score menu, and game over menu
